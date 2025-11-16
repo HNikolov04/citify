@@ -1,0 +1,59 @@
+## Build ##
+bin/
+obj/
+out/
+release/
+[Bb]uild/
+
+## Visual Studio ##
+.vs/
+*.user
+*.suo
+*.tmp
+*.pdb
+*.cache
+*.aps
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+## Resharper / Rider ##
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+## Logs ##
+*.log
+logs/
+
+## Publish ##
+publish/
+dist/
+wwwroot/dist/
+
+## Generated Files ##
+**/Migrations/
+*.generated.cs
+
+## Temp ##
+*.tmp
+*.temp
+*.bak
+*.old
+
+## Environment Config ##
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+secrets.json
+
+## Node ##
+node_modules/
+
+## Blazor ##
+wwwroot/.cache/
+wwwroot/service-worker-assets.js
+
+## Other ##
+*.DS_Store
+Thumbs.db
