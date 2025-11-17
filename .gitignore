@@ -32,7 +32,6 @@ dist/
 wwwroot/dist/
 
 ## Generated Files ##
-**/Migrations/
 *.generated.cs
 
 ## Temp ##
